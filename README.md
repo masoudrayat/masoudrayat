@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Masoud</h1>
+<h1 align="center">Hi 👋, I'm MASOUD</h1>
 <h3 align="center">A passionate data scientist from Bristol, UK</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/masoudrayat](https://github.com/masoudrayat)
