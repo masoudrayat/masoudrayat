@@ -24,8 +24,8 @@ I am an enthusiastic Data Scientist with a Mechanical Engineering background and
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-### ✍️ 
-“Data really powers everything that we do.” - Jeff Weiner
+### “Data really powers everything that we do.” - Jeff Weiner
+
 
 
 
