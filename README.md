@@ -23,15 +23,7 @@ I am an enthusiastic Data Scientist with a Mechanical Engineering background and
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 
-## GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-
-## GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=your-username)
-
 ### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
 “Data really powers everything that we do.”
 - Jeff Weiner
+
