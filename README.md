@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/masoudrayat](https://github.com/masoudrayat)
 
-- 💬 Ask me about **data science, machine learning, and data visualization**
+- 💬 Ask me about **Data Science, Machine Learning, and Data Visualization**
 
 # About Me
 I am an enthusiastic Data Scientist with a Mechanical Engineering background and a strong commitment to continuous learning and development. Currently pursuing a Master’s in Data Science at UWE Bristol, I will graduate in September 2024. During my studies, I have been honing my expertise in Python, R, SQL, and Machine Learning through various projects. My deep passion for data visualisation, statistics, and problem-solving fuels my ambition to become a highly skilled and experienced data scientist. I have a keen interest in all aspects of data, statistics, and machine learning. I am highly motivated to apply data-driven solutions to real-world problems, pursue a professional career in data science, and contribute significantly to the field.
