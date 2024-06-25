@@ -8,7 +8,7 @@
 # About Me
 I am an enthusiastic Data Scientist with a Mechanical Engineering background and a strong commitment to continuous learning and development. Currently pursuing a Master’s in Data Science at UWE Bristol, I will graduate in September 2024. During my studies, I have been honing my expertise in Python, R, SQL, and Machine Learning through various projects. My deep passion for data visualisation, statistics, and problem-solving fuels my ambition to become a highly skilled and experienced data scientist. I have a keen interest in all aspects of data, statistics, and machine learning. I am highly motivated to apply data-driven solutions to real-world problems, pursue a professional career in data science, and contribute significantly to the field.
 
-## Socials:
+## Profile Views:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/masoudrayat)
 
 ## Tech Stack
