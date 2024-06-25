@@ -32,6 +32,8 @@ I am an enthusiastic Data Scientist with a Mechanical Engineering background and
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 
+
+
 ### “Data really powers everything that we do.” - Jeff Weiner
 
 
