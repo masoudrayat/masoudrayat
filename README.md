@@ -11,14 +11,6 @@ I am an enthusiastic Data Scientist with a Mechanical Engineering background and
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/masoudrayat)
 
-
-## Tech Stack
-
-# Tech Stack
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-35%20%2F%2038428-brightgreen)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/masoudrayat)
-
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
