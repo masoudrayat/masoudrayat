@@ -6,7 +6,9 @@
 - 💬 Ask me about **Data Science, Machine Learning, and Data Visualization**
 
 # About Me
-Data Scientist with a strong background in Mechanical Engineering and a commitment to continuous learning. Expected to graduate with a Master's degree in Data Science from UWE Bristol in September 2024, where I have been enhancing my skills in Python, R, SQL, and Machine Learning through challenging projects. Proven ability to solve real-world data challenges and a deep enthusiasm for contributing to innovative projects. Interested in collaborating with dynamic teams focused on data-driven decision-making and creating impactful solutions within leading organisations.
+As a data scientist with a robust foundation in mechanical engineering, I completed my Master's degree in Data Science at the University of the West of England in September 2024. My expertise lies in applying machine learning and advanced analytics to tackle complex challenges. My dissertation, titled "Optimization Sustainability: Machine Learning Insights for Enhanced Electricity Production from Solar and Wind Energy," achieved a remarkable model accuracy of 98%, showcasing my ability to harness advanced data science techniques for impactful results.
+
+Throughout my academic journey, I honed my skills in Python, R, SQL, and machine learning through diverse hands-on projects. Driven by a passion for leveraging data to drive innovation, improve operational efficiency, and support strategic decision-making, I thrive in dynamic teams. I am actively seeking new opportunities to apply my skills in a professional setting and am open to exciting roles where I can contribute to impactful projects. Feel free to connect if you're interested in collaborating or hiring for your team!
 
 ## Profile Views:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/masoudrayat)
