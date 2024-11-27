@@ -3,8 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/masoudrayat](https://github.com/masoudrayat)
 
- - 💼 **Specializations:** **Data Science, Machine Learning, and Data Visualization**
- - 💻 **Technical Skills:** Python, R, SQL, Machine Learning
+ - 💼 Specializations: **Data Science, Machine Learning, and Data Visualization**
+ - 💻 Technical Skills: **Python, R, SQL, Machine Learning**
 
 # About Me
 As a data scientist with a robust foundation in mechanical engineering, I completed my Master's degree in Data Science at the University of the West of England in September 2024. My expertise lies in applying machine learning and advanced analytics to tackle complex challenges. My dissertation, titled "Optimization Sustainability: Machine Learning Insights for Enhanced Electricity Production from Solar and Wind Energy," achieved a remarkable model accuracy of 98%, showcasing my ability to harness advanced data science techniques for impactful results.
