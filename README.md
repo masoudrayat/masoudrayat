@@ -7,9 +7,7 @@
  - 💻 Technical Skills: **Python, R, SQL, Machine Learning**
 
 # About Me
-As a data scientist with a robust foundation in mechanical engineering, I completed my Master's degree in Data Science at the University of the West of England in September 2024. My expertise lies in applying machine learning and advanced analytics to tackle complex challenges. My dissertation, titled "Optimization Sustainability: Machine Learning Insights for Enhanced Electricity Production from Solar and Wind Energy," achieved a remarkable model accuracy of 98%, showcasing my ability to harness advanced data science techniques for impactful results.
-
-Throughout my academic journey, I honed my skills in Python, R, SQL, and machine learning through diverse hands-on projects. Driven by a passion for leveraging data to drive innovation, improve operational efficiency, and support strategic decision-making, I thrive in dynamic teams. I am actively seeking new opportunities to apply my skills in a professional setting and am open to exciting roles where I can contribute to impactful projects. Feel free to connect if you're interested in collaborating or hiring for your team!
+I hold a Master’s degree in Data Science from the University of the West of England, completed in October 2024, and have six years of experience as a data analyst in the construction materials industry. My expertise includes cost analysis, process optimization, and data-driven decision-making to support business growth. During my MSc, I strengthened my skills in Python, R, SQL, and Machine Learning through hands-on projects in predictive modeling and survival analysis. I am passionate about solving complex problems with data and delivering effective, goal-oriented solutions. Feel free to connect if you're interested in collaborating or hiring for your team!
 
 ## Profile Views:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/masoudrayat)
