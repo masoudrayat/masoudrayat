@@ -8,12 +8,14 @@ Data analyst with an MSc in Data Science (Merit, University of the West of Engla
 - **Databases:** MySQL, MongoDB
 - **Areas:** reporting and dashboards, data cleaning, predictive modelling, machine learning
 
-## Projects
+## Selected Projects
 
 - **Solar and wind energy prediction (MSc dissertation):** compared 7 machine learning models; Random Forest performed best at 98% accuracy
 - **Weather-driven solar power prediction:** correlation analysis, PCA and regression models for a UK community centre
 - **Leeds EV chargepoint analysis:** 3.1 million charging records analysed with PySpark, with trends shown in Tableau
 - **Bristol air quality database:** normalised MySQL and MongoDB databases for 230MB+ of data, queried with SQL
+
+More projects are in my [repositories](https://github.com/masoudrayat?tab=repositories).
 
 ## Get in touch
 
