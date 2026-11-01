@@ -1,6 +1,6 @@
 # Hi, I'm Masoud
 
-Data analyst with an MSc in Data Science (Merit, University of the West of England, October 2024) and 4+ years of experience in the construction materials industry, working with reports, dashboards and messy business data. Based in Bristol, UK.
+Data analyst with an MSc in Data Science (Merit, University of the West of England, October 2024) and 4+ years of experience in the construction materials industry, working with reports, dashboards and messy business data. Based in Bristol, UK, and happy to relocate for the right role.
 
 ## What I work with
 
@@ -17,9 +17,9 @@ Data analyst with an MSc in Data Science (Merit, University of the West of Engla
 
 ## Get in touch
 
-I'm open to Data Analyst, BI/Reporting and Data Scientist roles in the UK.
+I'm interested in data roles across analytics, business intelligence and data science in the UK. Feel free to reach out:
 
-[LinkedIn](https://www.linkedin.com/in/masoudrayat/)
+- LinkedIn: [linkedin.com/in/masoudrayat](https://www.linkedin.com/in/masoudrayat/)
 
 ## Tech Stack
 
