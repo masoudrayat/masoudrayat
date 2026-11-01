@@ -1,16 +1,25 @@
-<h1 align="center">Hi! 👋 I'm Masoud</h1>
+# Hi, I'm Masoud
 
+Data analyst with an MSc in Data Science (Merit, University of the West of England, October 2024) and 4+ years of experience in the construction materials industry, working with reports, dashboards and messy business data. Based in Bristol, UK.
 
-- 👨‍💻 All of my projects are available at [https://github.com/masoudrayat](https://github.com/masoudrayat)
+## What I work with
 
- - 💼 Specializations: **Data Science, Machine Learning, and Data Visualization**
- - 💻 Technical Skills: **Python, R, SQL, Machine Learning**
+- **Languages and tools:** SQL, Python (Pandas, NumPy, Scikit-learn), R, Tableau, PySpark
+- **Databases:** MySQL, MongoDB
+- **Areas:** reporting and dashboards, data cleaning, predictive modelling, machine learning
 
-# About Me
-I hold a Master’s degree in Data Science from the University of the West of England, completed in October 2024, and have six years of experience as a data analyst in the construction materials industry. My expertise includes cost analysis, process optimization, and data-driven decision-making to support business growth. During my MSc, I strengthened my skills in Python, R, SQL, and Machine Learning through hands-on projects in predictive modeling and survival analysis. I am passionate about solving complex problems with data and delivering effective, goal-oriented solutions. Feel free to connect if you're interested in collaborating or hiring for your team!
+## Projects
 
-## Profile Views:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/masoudrayat)
+- **Solar and wind energy prediction (MSc dissertation):** compared 7 machine learning models; Random Forest performed best at 98% accuracy
+- **Weather-driven solar power prediction:** correlation analysis, PCA and regression models for a UK community centre
+- **Leeds EV chargepoint analysis:** 3.1 million charging records analysed with PySpark, with trends shown in Tableau
+- **Bristol air quality database:** normalised MySQL and MongoDB databases for 230MB+ of data, queried with SQL
+
+## Get in touch
+
+I'm open to Data Analyst, BI/Reporting and Data Scientist roles in the UK.
+
+[LinkedIn](https://www.linkedin.com/in/masoudrayat/)
 
 ## Tech Stack
 
